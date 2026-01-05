@@ -24,6 +24,8 @@ The automation includes:
 - pandas
 - win32com.client (pywin32)
 - OpenCV (opencv-python)
+- datetime
+- cv2
 - pyautogui
 - datetime
 - os
